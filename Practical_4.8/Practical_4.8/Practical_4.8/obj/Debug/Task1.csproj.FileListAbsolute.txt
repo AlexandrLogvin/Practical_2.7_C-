@@ -1,0 +1,7 @@
+C:\Users\alxlo\OneDrive\Desktop\MyC#\PR2\Practical_4.8\Practical_4.8\Practical_4.8\bin\Debug\Practical_4.8.exe.config
+C:\Users\alxlo\OneDrive\Desktop\MyC#\PR2\Practical_4.8\Practical_4.8\Practical_4.8\bin\Debug\Practical_4.8.exe
+C:\Users\alxlo\OneDrive\Desktop\MyC#\PR2\Practical_4.8\Practical_4.8\Practical_4.8\bin\Debug\Practical_4.8.pdb
+C:\Users\alxlo\OneDrive\Desktop\MyC#\PR2\Practical_4.8\Practical_4.8\Practical_4.8\obj\Debug\Task1.csproj.AssemblyReference.cache
+C:\Users\alxlo\OneDrive\Desktop\MyC#\PR2\Practical_4.8\Practical_4.8\Practical_4.8\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\alxlo\OneDrive\Desktop\MyC#\PR2\Practical_4.8\Practical_4.8\Practical_4.8\obj\Debug\Practical_4.8.exe
+C:\Users\alxlo\OneDrive\Desktop\MyC#\PR2\Practical_4.8\Practical_4.8\Practical_4.8\obj\Debug\Practical_4.8.pdb
